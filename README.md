@@ -17,4 +17,4 @@
 ### Measuring model performance
 
 - The loss function : ** Mean Squared error**
-- plot the residuals for **y_train** and **y_pred**
+- plot the residuals for **y_test** and **y_pred**
