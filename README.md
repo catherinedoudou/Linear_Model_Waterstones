@@ -13,7 +13,7 @@
  - Data normalisation
  - Fit the model
  - Make a prediction
- - 
+
 ### Measuring model performance
 
 - The loss function : ** Mean Squared error**
