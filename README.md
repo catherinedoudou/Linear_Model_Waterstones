@@ -5,21 +5,21 @@ Books are open doors to the unimagined worlds which is unique to every person. I
 
 Here I explore a big database of books. Books of different categories, from thousands of authors. In this Project, I choose  to use this dataset which I got from previous pipeline project to build a Machine Learning model to predict the price of books based on a given set of features below:
 
-FEATURES:
+**FEATURES**:
 
-pages: How many pages does this book have
+**pages**: How many pages does this book have
 
-weight_gram: How heavy this book 
+**weight_gram**: How heavy this book 
 
-media_reviews: Does this book have media review or not
+**media_reviews**: Does this book have media review or not
 
-num_reviews: The number of customer reviews about the book
+**num_reviews**: The number of customer reviews about the book
 
-num_stars: The customer ratings of the book
+**num_stars**: The customer ratings of the book
 
-categories: The department the book is usually available at.
+**categories**: The department the book is usually available at.
 
-Price: The price of the book (Target variable)
+**Price**: The price of the book (Target variable)
 
 ### Data preproceesiong
 
